@@ -1,0 +1,13 @@
+*.jou
+*.log
+*.str
+*.xml
+*.wdb
+*.xpr
+*.cache/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.webtalk/
+*.runs/
+*.vivado/
